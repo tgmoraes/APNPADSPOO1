@@ -33,3 +33,10 @@ Outros aspectos de OO:
 * identidade X igualdade e comparação
 * mutabilidade de objetos
 * componentes estáticos
+
+## aula 6
+Herança:
+* superclasses e subclasses
+* modificar de acesso protected
+* reescrita de métodos
+* reutilização de construtor e métodos da superclasse
