@@ -40,3 +40,17 @@ Herança:
 * modificar de acesso protected
 * reescrita de métodos
 * reutilização de construtor e métodos da superclasse
+
+## aula 7
+Classes abstratas e polimorfismo:
+* Classe abstrata
+* Métodos abstratos
+* Herdando de classes abstratas
+* Ganhos do polimorfismo junto com herança
+
+## aula 8
+Interfaces
+* Declarando Interfaces
+* Implementando interfaces
+* Intro a telas gráficas com JFrame e JPanel
+* Polimorfismo com interfaces
