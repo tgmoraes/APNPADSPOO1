@@ -54,3 +54,10 @@ Interfaces
 * Implementando interfaces
 * Intro a telas gráficas com JFrame e JPanel
 * Polimorfismo com interfaces
+
+## aula 9
+Exceptions
+* Bloco try/cacth
+* Lançando exceptions
+* Hierarquia das Exceptions e tipos de Exceptions
+* Criando uma Exception
